@@ -207,7 +207,7 @@
                   class="user-image rounded-circle shadow"
                   alt="User Image"
                 />
-                <span class="d-none d-md-inline">Filbert Darius Asher</span>
+                <span class="d-none d-md-inline">Rafa Muhammad Aldera</span>
               </a>
               <ul class="dropdown-menu dropdown-menu-lg dropdown-menu-end">
                 <!--begin::User Image-->
@@ -218,7 +218,7 @@
                     alt="User Image"
                   />
                   <p>
-                    Filbert Darius Asher - Web Developer
+                    Rafa Muhammad Aldera - Web Developer
                     <small>Member since Nov. 2023</small>
                   </p>
                 </li>
